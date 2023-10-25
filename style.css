@@ -1,0 +1,27 @@
+.box, .sbox, .dbox{
+    border: 1px solid green;
+    height: 30px;
+    border-radius: 6px;
+}
+
+.sbox:hover{
+    background-color: green;
+    color: white;
+}
+
+table, tr, th, td{
+    border: 1px solid green;
+    border-collapse: collapse;
+    padding: 10px;
+}
+
+.dbox:hover{
+    background-color: brown;
+    color: white;
+}
+
+table{
+    width: 95%;
+    border-radius: 6px;
+    margin: 20px;
+}
